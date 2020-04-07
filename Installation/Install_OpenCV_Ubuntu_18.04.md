@@ -2,7 +2,7 @@
 
 OpenCV (Open Source Computer Vision Library) is an open-source computer vision library and has bindings for C++, Python, and Java. It is used for a very wide range of applications, including medical image analysis, stitching street view images, surveillance video, detecting and recognizing faces, tracking moving objects, extracting 3D models, and much more. OpenCV can take advantage of multi-core processing and features GPU acceleration for real-time operation.
 
-###Install OpenCV from the Ubuntu Repository
+### Install OpenCV from the Ubuntu Repository
 
 The OpenCV package is available from the Ubuntu 18.04 distribution repository. At the time of writing, the version in the repositories is 3.2, which is not the latest version.
 To install OpenCV from the Ubuntu 18.04 repositories, follow these steps:
