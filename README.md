@@ -10,4 +10,5 @@ This project content the following folder:
 1. Arduino_Codes : Codes written in C++ to control the Robot mobility. Controlling via Bluetooth, Wi-fi, Obstacle_Avoidance
 2. Presentation : PPT - with description
 3. Report : Project Report with Circuit diagram
-                   
+4. Installation : Different installation methods                   
+5. Detection with YOLO : YOLO Detection concepts and codes.
